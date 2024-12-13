@@ -26,3 +26,7 @@ The code for each module can be found in the appendices to this report, as this 
 For interaction with the FPGA, see the table below.
 
 ![image](https://github.com/user-attachments/assets/79e26632-c1d0-4a08-915c-7cf50ba7d947)
+
+
+#
+Last time the code was tested -> 12/01/2022
